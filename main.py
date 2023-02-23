@@ -1,5 +1,5 @@
-
 import statistics
+
 
 def sequence(i, f, g):
     s = int(input('Введіть ціле число '))
@@ -21,4 +21,3 @@ def sequence(i, f, g):
 
 if __name__ == '__main__':
     print(sequence([], [], []))
-
